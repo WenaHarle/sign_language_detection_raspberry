@@ -1,3 +1,34 @@
 {
-
+  "HI": {
+    "label": "HI",
+    "timestamp": "20260403_161402",
+    "angles": {
+      "thumb_pip": 178.79,
+      "thumb_dip": 167.81,
+      "index_pip": 176.21,
+      "index_dip": 177.18,
+      "middle_pip": 176.19,
+      "middle_dip": 178.87,
+      "ring_pip": 177.72,
+      "ring_dip": 177.6,
+      "pinky_pip": 176.59,
+      "pinky_dip": 176.18,
+      "knuckle_1_2": 91.62,
+      "knuckle_2_3": 62.54,
+      "knuckle_3_4": 50.46,
+      "wrist_ref1": 65.96,
+      "wrist_ref2": 27.53
+    },
+    "rotation": {
+      "palm_forward_x": -0.0392,
+      "palm_forward_y": -0.9964,
+      "palm_forward_z": -0.0753,
+      "palm_side_x": -0.9761,
+      "palm_side_y": 0.0221,
+      "palm_side_z": 0.2163,
+      "palm_normal_x": 0.2138,
+      "palm_normal_y": -0.082,
+      "palm_normal_z": 0.9734
+    }
+  }
 }
